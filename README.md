@@ -57,6 +57,8 @@ My stack
   <img src="https://github.com/gorden73/gorden73/blob/main/Lombok_logo.png" title="Lombok" alt="Lombok" width="70" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg?raw=true" title="Git" alt="Git" width="50" height="50"/>
   <img src="https://github.com/gorden73/gorden73/blob/main/IntelliJ_IDEA_logo.png" title="IntelliJ" alt="IntelliJ" width="120" height="50"/>
+    <img src="https://steemitimages.com/p/4PYjjVwJ1UdtHENJWHxGHF3yWWpTyUsYFt9JmikQYbzmcjqJL1UdB1z4kx3zeT73MDNztTDLqLhpzjnCMRD1LaghqPbwZZjQnjXMtBeTgsx?format=match&mode=fit&width=1280" title="IntelliJ" alt="IntelliJ" width="150" height="80"/>
+
 </div>
 
 </div>
