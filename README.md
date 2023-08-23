@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Aleksandr</a> 
+<h1 align="center">Hi there, I'm Aliaksandr</a> 
 <h3 align="center">Java developer from Minsk</h3>
 
 
 
-  <h align="center">I develop in JAVA, I use mainly Spring. I have attached the most interesting projects on the main page. I am always happy to take part in interesting open source projects. Open for any activity</h>
+  <h align="center">I develop in JAVA, I use mainly Spring. I have attached the most interesting projects on the main page. I am always happy to take part in interesting projects. Open for any activity</h>
   
   ##
   
